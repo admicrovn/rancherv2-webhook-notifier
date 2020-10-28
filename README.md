@@ -3,4 +3,4 @@
 
 ```markdown
   pip3 install -r requirements.txt 
-  python3 ru
+  python3 run.py
